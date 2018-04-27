@@ -1,6 +1,6 @@
-const pgp = require('../server-controllers/db').pgp;
+const pgp = require('../controllers/db').pgp;
 
-const db = require('../server-controllers/db').db;
+const db = require('../controllers/db').db;
 
 module.exports = {
   get: () => {

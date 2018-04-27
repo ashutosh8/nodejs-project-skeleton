@@ -1,4 +1,4 @@
-// const search = require('../server-controllers/search');
+// const search = require('../controllers/search');
 
 const express = require('express');
 

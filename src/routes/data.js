@@ -1,8 +1,8 @@
 // Importing modules for file upload
 
-// const upload = require('../server-controllers/upload');
+// const upload = require('../controllers/upload');
 
-// const master = require('../server-controllers/master');
+// const master = require('../controllers/master');
 
 const express = require('express');
 
